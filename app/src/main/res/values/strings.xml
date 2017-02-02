@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom time picker</string>
+    <string name="custom_time_picker">Custom Time Picker</string>
+    <string name="android_time_picker">Android Time Picker</string>
+</resources>
